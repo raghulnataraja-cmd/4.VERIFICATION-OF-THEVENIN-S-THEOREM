@@ -83,10 +83,13 @@ Thevenin’s equivalent circuit
 <img width="1280" height="625" alt="WhatsApp Image 2026-05-24 at 1 33 21 PM (1)" src="https://github.com/user-attachments/assets/211e83d5-9681-435a-b518-ea6bc85ffe82" />
 <img width="875" height="720" alt="WhatsApp Image 2026-05-24 at 1 33 22 PM" src="https://github.com/user-attachments/assets/96fa9c79-83a4-423f-b8e4-73138100182a" />
 
+**MARK SPLITUP:**
+<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/ce131fef-2ac7-4488-895c-bfd208113673" />
+
 
 
 **RESULT:**
 
-    Thus,the Thevinin's theorem is verified practically and theoretically.
+   Thus,the Thevinin's theorem is verified practically and theoretically.
 
 
